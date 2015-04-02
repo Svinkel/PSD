@@ -34,4 +34,4 @@ Given a binary image there are several morphological operations that can be appl
 
 The binary image was sent to a input BRAM on a FPGA through USB connection and the result image was extracted from an output BRAM via USB too. The maximum size allowed for the images was 128x128x1.
 
-This projects were developed with Ricardo Vieira.
+This projects were developed with João Bauto.
